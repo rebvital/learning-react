@@ -1,2 +1,2 @@
 # learning-react
- private repository remusing my learning with react
+repository to track my learning with react
